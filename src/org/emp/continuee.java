@@ -7,5 +7,15 @@ public class continuee {
 				System.exit(0);
 			}System.out.println(i);
 		}System.out.println("end");
+	
+	
+	System.out.println("Recentely added");
+	System.out.println("12344");
+	
 	}
+	
+	
 }
+
+
+
